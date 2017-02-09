@@ -1,0 +1,30 @@
+{
+  "name": "rd-startups",
+  "version": "1.1.0",
+  "description": "Ever growing list of startups in Bangalore.",
+  "license": "MIT",
+  "repository": "onilpereyra/rd-startups",
+  "author": {
+    "name": "onilpereyra",
+    "email": "onil.pereyra@gmail.com",
+    "url": "onil.me"
+  },
+  "engines": {
+    "node": ">= 4"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "startups",
+    "list",
+    "Dominican Republic"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^3.1.1"
+  }
+}
