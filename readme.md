@@ -31,4 +31,4 @@ console.log(Object.keys(rdStartups)); // JSON {'name' : 'url'}
 
 ## License
 
-MIT © [Hemanth.HM](http://onil.me)
+MIT © [onilpereyra](http://onil.me)
